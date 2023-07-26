@@ -2,8 +2,8 @@
 
 To run this app on your iPhone, perform the following steps. Note that you must have a Mac and an iPhone to do this.
 
-1. Download xCode.
-2. Run this command in your terminal: `xcode-select --install`
+1. Download xCode from the App Store (let it finish downloading before moving on).
+2. Open the "Terminal" app and run this command: `xcode-select --install`
 3. Open xCode.
 4. Click "Clone an existing project"
 5. Paste the url of this repository [https://github.com/rjain37/Etamac](https://github.com/rjain37/Etamac)
